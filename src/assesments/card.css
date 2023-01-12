@@ -1,0 +1,14 @@
+.bgcard{
+    background-color: rgb(229, 238, 233);
+}
+.ds{
+    border-radius: 5%;
+    border-top: 10px ridge red;
+    
+    
+    
+}
+.nd{
+    border-radius: 5%;
+    border-top: 10px ridge rgb(19, 75, 22);
+}
